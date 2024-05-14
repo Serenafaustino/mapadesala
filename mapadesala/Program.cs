@@ -16,7 +16,7 @@ namespace mapadesala
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new formprof());
+            Application.Run(new principal());
         }
     }
 }

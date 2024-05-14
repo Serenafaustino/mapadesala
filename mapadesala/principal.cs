@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace mapadesala
 {
-    public partial class Form1 : Form
+    public partial class principal : Form
     {
-        public Form1()
+        public principal()
         {
             InitializeComponent();
+        }
+
+        private void menuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void salvarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
